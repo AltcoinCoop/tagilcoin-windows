@@ -1,10 +1,18 @@
 TagilCoin 
 ================================
 
-http://www.tagilcoin.org
+https://tagilcoin.org
+
+Block explorer http://money.tagilcoin.org
+
+Forum http://forum.tagilcoin.org
+
+----
 
 Copyright (c) 2009-2013 Bitcoin Developers
+
 Copyright (c) 2011-2017 Litecoin Developers
+
 Copyright (c) 2017 TagilCoin Developers
 
 What is TagilCoin?
@@ -13,7 +21,7 @@ What is TagilCoin?
 TagilCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
 
 For more information, as well as an immediately useable, binary version of
-the TagilCoin client sofware, see http://www.tagilcoin.org.
+the TagilCoin client sofware, see https://tagilcoin.org.
 
 License
 -------
