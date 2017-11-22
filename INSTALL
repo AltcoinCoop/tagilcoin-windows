@@ -1,0 +1,9 @@
+Building TagilCoin
+
+See doc/readme-qt.rst for instructions on building TagilCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TagilCoin.
+
+See doc/build-*.txt for instructions on building tagilcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TagilCoin.
