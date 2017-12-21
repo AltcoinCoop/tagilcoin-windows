@@ -7,6 +7,8 @@ Block explorer http://money.tagilcoin.org
 
 Forum http://forum.tagilcoin.org
 
+Windows and Linux binaries are available in the [Releases section](https://github.com/tagilcoin/tagilcoin-windows/releases/tag/latest).
+
 ----
 
 Copyright (c) 2009-2013 Bitcoin Developers
