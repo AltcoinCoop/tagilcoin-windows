@@ -16,3 +16,5 @@ To compile on Linux:
 * cd src/leveldb && make && make libleveldb.a libmemenv.a && chmod 755 *
 * apt-get install libdb++-dev
 * cd .. && make -f makefile.unix
+
+![tank image](https://raw.githubusercontent.com/tagilcoin/tagilcoin-windows/master/tank.png)
