@@ -16,6 +16,6 @@ To compile on Linux:
 * cd src/leveldb && make && make libleveldb.a libmemenv.a && chmod 755 *
 * apt-get install libdb++-dev
 * cd .. && make -f makefile.unix
-* if everything goes well, I will find a tagilcoind file in the src folder. Happy compiling!
+* if everything goes well, you will find a tagilcoind file in the src folder. Happy compiling!
 
 ![tank image](https://raw.githubusercontent.com/tagilcoin/tagilcoin-windows/master/tank.png)
